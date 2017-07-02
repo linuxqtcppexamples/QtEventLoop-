@@ -1,4 +1,4 @@
-# QtEventLoop-
+# QtEventLoop
 Qt Event Loop example
 
 This example will is used to show files names in selected directory or folder.
